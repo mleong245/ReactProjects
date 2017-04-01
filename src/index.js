@@ -11,7 +11,7 @@ const API_KEY = config.YOUTUBE_API_KEY;
 const App = () => {
   return (
     <div>
-      <SearchBar />
+      <SearchBar /> // created an instance of SearchBar
     </div>
   );
 }
